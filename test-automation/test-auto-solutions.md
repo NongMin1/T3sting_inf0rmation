@@ -16,6 +16,7 @@ User guide: https://junit.org/junit5/docs/current/user-guide/
 
 [Tutorial](http://toolsqa.com/cucumber/cucumber-tutorial/) which combines Maven + JUnit + Selenium + Cucumber.
 
+Implicit Wait & Explicit Wait [in Selenium](https://www.guru99.com/implicit-explicit-waits-selenium.html)
 
 
 ### JavaScript + Jasmine + Gulp
