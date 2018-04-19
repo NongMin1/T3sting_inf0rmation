@@ -1,5 +1,5 @@
-# Testing wiki in CIC Baltic
-This wiki was created in order for testers by testers within CIC Baltic. These pages should be useful for test specialist regardless of experience and level of previous knowledge. We hope that everyone will find something new, interesting or even useful for your current project and help you to develop your personal skills in QA.
+# Testing wiki
+These pages should be useful for test specialist regardless of experience and level of previous knowledge. We hope that everyone will find something new, interesting or even useful for your current project and help you to develop your personal skills in QA.
 
 ## Table of contents
 ### Test Automation
