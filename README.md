@@ -54,5 +54,3 @@ This wiki was created in order for testers by testers within CIC Baltic. These p
 #
 
 Please use issues to report typos or errors in this material.
-
-Initial testing wiki release was prepared by: Pavel Eimont, Vitalij Balandin, Vilius Nedzveckas, Robertas Urbanas and Audrius Bertašius.
