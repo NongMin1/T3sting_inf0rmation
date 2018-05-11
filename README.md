@@ -5,7 +5,7 @@ These pages should be useful for test specialist regardless of experience and le
 ### Test Automation
 * General knowledge about [test automation](test-automation/test-auto-main.md#test-automation-manual-vs-automated-tests).
 * Main [article](test-automation/programming-skills.md) about what kind of programming skills a test specialist may need.
-* Testing pyramid [article](testing-pyramid).
+* Testing pyramid [article](testing-pyramid.md).
 
 ### Web UI testing
 * [Solutions](test-automation/test-auto-solutions.md) for automated test project.
