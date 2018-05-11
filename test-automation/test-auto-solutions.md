@@ -87,3 +87,6 @@ If application elements do not contain unique identifiers, it’s a good practic
 XPath Axes: https://www.w3schools.com/xml/xpath_axes.asp
 
 
+### Python
+
+Selenium + Python link is [here](http://selenium-python.readthedocs.io/).
