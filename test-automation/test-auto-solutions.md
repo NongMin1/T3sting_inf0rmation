@@ -90,3 +90,7 @@ XPath Axes: https://www.w3schools.com/xml/xpath_axes.asp
 ### Python
 
 Selenium + Python link is [here](http://selenium-python.readthedocs.io/).
+
+### Cypress.IO
+
+How to configure Cypress.IO you can find [here](https://angularfirebase.com/lessons/cypress-angular-testing-end-to-end/). 
