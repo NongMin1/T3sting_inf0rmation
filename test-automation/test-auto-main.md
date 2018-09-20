@@ -85,3 +85,4 @@ A proxy, in its most general form, is a class functioning as an interface to som
 * JS + CucumberJS + Gulp
 * Xebium
 * Python
+* Cypress.IO
