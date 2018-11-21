@@ -94,3 +94,9 @@ Selenium + Python link is [here](http://selenium-python.readthedocs.io/).
 ### Cypress.IO
 
 How to configure Cypress.IO you can find [here](https://angularfirebase.com/lessons/cypress-angular-testing-end-to-end/). 
+
+### EXTRA
+### Continues integration
+Jenkins:
+Couse and the file with information can be found [here](https://www.udemy.com/jenkins-intro/learn/v4/content)
+
